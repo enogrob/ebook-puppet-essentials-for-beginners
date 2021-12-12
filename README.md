@@ -1,4 +1,3 @@
-[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/enogrob/ebook-puppet-essentials-for-beginners)
 ```
 Roberto Nogueira  
 BSd EE, MSd CE
