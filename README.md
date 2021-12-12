@@ -19,9 +19,10 @@ Chapter 1 : Installation and Setup 4m 45s
 [x] Installing and Setting Up the Working Environment 11m 21s
 
 Chapter 2 : Puppet Ecosystem, Components, and Terminologies 4m 58s
-[ ] Puppet Components and Terminologies 4m 59s
-[ ] Understanding the Puppet Run Cycle 3m 49s
-[ ] Installing the Puppet Components 6m 7s
+[x] Configuration Management and How Puppet Fits into the Scenario 4m 58s
+[x] Puppet Components and Terminologies 4m 59s
+[x] Understanding the Puppet Run Cycle 3m 49s
+[x] Installing the Puppet Components 6m 7s
 [ ] Puppet in Action 8m 29s
 [ ] Overview of the Puppet Language 12m 48s
 
